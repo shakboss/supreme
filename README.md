@@ -1,4 +1,3 @@
-Download and Setup: https://www.dropbox.com/scl/fi/v29hnzx2coqz2wtz9ub4p/Setup.rar?rlkey=4clgo5rul7ynd4wu1e9zr0iae&dl=1
 - Support Wildcard ✅
 - SSH Websocket : 80
 - SSH SSL Websocket : 443
